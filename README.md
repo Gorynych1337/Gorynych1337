@@ -9,7 +9,7 @@ Unity developer (C#).
 
 [Gameshop Bot](https://github.com/Gorynych1337/KursTGBot) — Telegram bot for output and changing data in DB. Python + Telegram API + PostgreSQL.
 
-[Notebook](https://github.com/Gorynych1337/Notebook) — Simple notebook app for android. Java (Android Studio) + SQLite.
+[Notebook](https://github.com/Gorynych1337/Notebook) — Simple notebook android app. Java (Android Studio) + SQLite.
 
 ### Contact me
 [Telegram](https://t.me/PopovEgor_0)
