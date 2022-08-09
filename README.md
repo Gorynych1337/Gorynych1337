@@ -7,7 +7,7 @@ Unity developer (C#).
 ### Pet-projects
 [Unity shooter](https://github.com/Gorynych1337/NetworkShooter) — network shooter  made in Unity. Unity C# + Photon Pun2.
 
-[Gameshop Bot](https://github.com/Gorynych1337/KursTGBot) — Telegram bot for output and changing data in DB. Python + Telegram API + PostgreSQL.
+[Spinning gun](https://github.com/Gorynych1337/Spinning-gun) — Simple Unity project for Android devices. Unity C# + AndroidSDK.
 
 [Notebook](https://github.com/Gorynych1337/Notebook) — Simple notebook android app. Java (Android Studio) + SQLite.
 
