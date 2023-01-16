@@ -5,11 +5,11 @@ My name is Egor. I'm studying at SPBSTU, Saint-Petersburg, Russia.
 Unity developer (C#).
 
 ### Pet-projects
+[Travel5er](https://github.com/Gorynych1337/Travel5er) — program for playing in the D&D 5e.
+
 [Unity shooter](https://github.com/Gorynych1337/NetworkShooter) — network shooter  made in Unity. Unity C# + Photon Pun2.
 
 [Spinning gun](https://github.com/Gorynych1337/Spinning-gun) — Simple Unity project for Android devices. Unity C# + AndroidSDK.
-
-[Notebook](https://github.com/Gorynych1337/Notebook) — Simple notebook android app. Java (Android Studio) + SQLite.
 
 ### Contact me
 [Telegram](https://t.me/PopovEgor_0)
