@@ -14,7 +14,7 @@ Unity developer (C#).
 ### Contact me
 [Telegram](https://t.me/PopovEgor_0)
 
-![Gorynych's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gorynych1337&theme=radical&show_icons=true)
+<!--![Gorynych's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gorynych1337&theme=radical&show_icons=true)-->
 
 <!--
 **Gorynych1337/Gorynych1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
