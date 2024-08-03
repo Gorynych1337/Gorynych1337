@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Egor. I'm studying at SPBSTU, Saint-Petersburg, Russia.
+My name is Egor. I'm looking for a job, live in Saint-Petersburg, Russia.
 
-Unity developer (C#).
+UE5 developer (Blueprints + C++).
 
 ### Pet-projects
 [Travel5er](https://github.com/Gorynych1337/Travel5er) — program for playing in the D&D 5e.
