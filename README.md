@@ -9,7 +9,7 @@ Unity developer (C#).
 
 [Unity shooter](https://github.com/Gorynych1337/NetworkShooter) — network shooter  made in Unity. Unity C# + Photon Pun2.
 
-[Spinning gun](https://github.com/Gorynych1337/Spinning-gun) — Simple Unity project for Android devices. Unity C# + AndroidSDK.
+[Space Invaders](https://github.com/Gorynych1337/space-invaders) — Simple UE5 project. UE5 Blueprints.
 
 ### Contact me
 [Telegram](https://t.me/PopovEgor_0)
