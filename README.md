@@ -2,14 +2,14 @@
 
 My name is Egor. I'm looking for a job, live in Saint-Petersburg, Russia.
 
-UE5 developer (Blueprints + C++).
+Unity / UE5 developer.
 
 ### Pet-projects
+[Paul is a lava](https://github.com/Gorynych1337/LestaGameJam) - game from Lesta Academy 24-25 GameJam
+
 [Travel5er](https://github.com/Gorynych1337/Travel5er) — program for playing in the D&D 5e.
 
 [Unity shooter](https://github.com/Gorynych1337/NetworkShooter) — network shooter  made in Unity. Unity C# + Photon Pun2.
-
-[Space Invaders](https://github.com/Gorynych1337/space-invaders) — Simple UE5 project. UE5 Blueprints.
 
 ### Contact me
 [Telegram](https://t.me/PopovEgor_0)
