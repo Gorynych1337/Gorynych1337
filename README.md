@@ -5,7 +5,7 @@ My name is Egor. I'm looking for a job, live in Saint-Petersburg, Russia.
 Unity / UE5 developer.
 
 ### Pet-projects
-[Paul is a lava](https://github.com/Gorynych1337/LestaGameJam) - game from Lesta Academy 24-25 GameJam
+[Paul is a lava](https://github.com/Gorynych1337/LestaGameJam) - [game](https://drive.google.com/file/d/1VsehGubncknlwqaz_SzEGAmZbWSgdLgu/view?usp=drive_link) from Lesta Academy 24-25 GameJam
 
 [Travel5er](https://github.com/Gorynych1337/Travel5er) — program for playing in the D&D 5e.
 
